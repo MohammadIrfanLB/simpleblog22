@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "lorem ipsum dolar set....",
+      "author": "kane",
+      "id": "1"
+    },
+    {
+      "title": "just start react",
+      "body": "lorem ipsum dolar set....",
+      "author": "jane",
+      "id": "2"
+    },
+    {
+      "title": "Blog is here",
+      "body": "lorem ipsum dolar set....",
+      "author": "bane",
+      "id": "3"
+    }
+  ]
+}
